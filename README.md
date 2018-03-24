@@ -4,7 +4,7 @@ This is a very simple pyglet game with two characters that move around trying to
 
 This "game" only has movement, rectangle collision, and a way to get from start to finish.
 If you reach the end of the level(finish) then the game will exit. The game was created in a code to connect event 
-on March 16th, 2018.
+on March 16th, 2018 at the University of Toronto. 
 
 There are 6 python files:
 
@@ -16,8 +16,6 @@ block.py
 settings.py
 
 The rest are images. 
-
-The pyglet folder contains the pyglet library and will be used to import from.
 
 To start the game, double click on game.py. There, you will see 3 different colored squares
 The two reen squares are the players, the two red squares are the finish line, and the yellow squares are walls.
