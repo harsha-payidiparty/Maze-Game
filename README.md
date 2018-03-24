@@ -7,13 +7,12 @@ If you reach the end of the level(finish) then the game will exit. The game was 
 on March 16th, 2018 at the University of Toronto. 
 
 There are 6 python files:
-
-game.py
-physicalobject.py
-player.py
-finish.py
-block.py
-settings.py
+game.py, 
+phyicaalobject.py, 
+player.py, 
+finish.py, 
+block.py, 
+settings.py, 
 
 The rest are images. 
 
