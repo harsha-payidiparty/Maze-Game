@@ -17,7 +17,7 @@ settings.py,
 The rest are images. 
 
 To start the game, double click on game.py. There, you will see 3 different colored squares
-The two reen squares are the players, the two red squares are the finish line, and the yellow squares are walls.
+The two green squares are the players, the two red squares are the finish line, and the yellow squares are walls.
 
 Each square has a corresponding file to it. Green corresponds to player.py, red corresponds to finish.py,
 and yellow corresponds to block.py.
